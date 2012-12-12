@@ -1,6 +1,6 @@
 # Here is a sample/template sinatra application ready for deployment to [Heroku](http://heroku.com).
 
-**NOTE** This is for heroku.com and not herokugarden.com
+This is only for heroku.com 
 
 * Create an acount in seconds at [Heroku](http://heroku.com/signup).
 * Install the gem `sudo gem install heroku`.
