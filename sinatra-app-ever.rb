@@ -1,11 +1,3 @@
-# You'll need to require these if you
-# want to develop while running with ruby.
-# The config/rackup.ru requires these as well
-# for it's own reasons.
-#
-# $ ruby heroku-sinatra-app.rb
-#
-require 'rubygems'
 require 'sinatra'
 
 configure :production do
@@ -18,7 +10,7 @@ end
 
 # Quick test
 get '/' do
-  "Congradulations!
+  "Congratulations!
    You're running a Sinatra application on Heroku!"
 end
 
