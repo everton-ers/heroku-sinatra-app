@@ -10,7 +10,7 @@ end
 
 # Quick test
 get '/' do
-  "Congratulations!
+  "Congratulations! Everton
    You're running a Sinatra application on Heroku!"
 end
 
